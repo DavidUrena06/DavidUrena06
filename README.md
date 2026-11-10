@@ -14,12 +14,12 @@ paneles de administración — y no publico nada hasta que el cliente esté tota
 
 - **[ngn.co.cr](https://ngn.co.cr)** — sitio corporativo en Astro para NGN Costa Rica, 100/100 en Google PageSpeed, con SEO y analítica (GTM · GA4).
 - **Comprobantes CR** *(privado)* — sistema de facturación electrónica que lee los XML de Hacienda: leads, auditoría y clasificación CABYS. Node.js · Express · Prisma · PostgreSQL.
-- **NGN Coverage Designer** *(privado, en desarrollo)* — diseño de cobertura WiFi y cámaras sobre planos, con mapas de calor, cotizaciones y exportación a PDF.
+- **[NGN Coverage Designer](https://ngn.co.cr/cobertura-wifi/disenar)** — diseño de cobertura WiFi y de cámaras sobre planos, con mapas de calor, cotizaciones y exportación a PDF. React · TypeScript · Node.js.
 - **[VirtualBet](https://github.com/DavidUrena06/virtualbet)** — casino virtual y apuestas deportivas full-stack con moneda ficticia (demo, sin dinero real).
 
 ### Stack
 
-**Lenguajes y frameworks:** JavaScript · TypeScript · Node.js · Express · Astro · HTML · CSS · SQL
+**Lenguajes y frameworks:** JavaScript · TypeScript · React · Node.js · Express · Astro · HTML · CSS · SQL
 **Datos:** PostgreSQL · Prisma · Supabase · APIs REST
 **Nube:** Cloudflare · Vercel · Render · VPS
 **Marketing y analítica:** Google Tag Manager · GA4 · Google Ads · Meta Ads · SEO
